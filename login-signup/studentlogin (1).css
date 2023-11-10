@@ -1,0 +1,50 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(background\ \(1\).jpg);
+    font-family: sans-serif;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: -20px;
+
+}.Studentlogin{
+    width: 400px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+    background: #164863;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+
+.Studentlogin h1{
+    color: #9BBEC8;
+    margin-bottom: 5px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 50px
+}
+
+.input-box{
+    padding: 18px;
+    margin: 8px 0;
+    width: 80%;
+    border: 1px solid #DDF2FD;
+    justify-content: center;
+}
+
+button{
+    color: #DDF2FD;
+    width: 100%;
+    padding: 10px;
+    
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+}
+
+.loginbutton{
+    background-color: #0C356A;
+}
+.forgot{
+    color: #DDF2FD;
+}

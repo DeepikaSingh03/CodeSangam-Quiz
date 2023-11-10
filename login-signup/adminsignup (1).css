@@ -1,0 +1,84 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    background-image: url(background\ \(1\).jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+.studentsignup{
+    width: 400px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+    background: #164863;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+    height: 630px;
+    margin-top: 44px;
+    margin-left: 0px;
+    
+}
+
+.page2 img{
+    height: 665px;
+    margin-top: 44px;
+    margin-left: 89px;
+    opacity: 0.8;
+}
+
+.combine2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.studentsignup h1{
+    color: #9BBEC8;
+    margin-bottom: 5px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 50px
+
+}
+
+.studentsignup h4{
+    color: #C2D9FF;
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+    margin-top: -1px;
+}
+
+.input-box{
+    padding: 18px;
+    margin: 8px 0;
+    width: 80%;
+    border: 1px solid #DDF2FD;
+    justify-content: center;
+}
+
+button{
+    color: #DDF2FD;
+    width: 100%;
+    padding: 10px;
+    
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    
+}
+
+.signin{
+    color: #DDF2FD;
+}
+
+.signup-btn{
+    background-color: #0C356A;
+}
+
+hr{
+    margin-top: 20px;
+    width: 80%;
+
+}
